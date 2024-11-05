@@ -1,0 +1,2 @@
+The commands described below are for powershell terminal, not for Linux
+Command to create a new file : New-Item -Name "file1.txt" -ItemType "File"
